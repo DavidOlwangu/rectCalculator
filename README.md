@@ -26,7 +26,8 @@ $Area = length \times width$
 ---
 
 ## 📂 Project Structure
-rectCalculator/
+```text
+.
 ├── index.html   # HTML structure and UI elements
 ├── style.css    # Centering logic and container styles
 └── script.js    # Area calculation function
@@ -44,7 +45,7 @@ rectCalculator/
 
                * Click the Calculate button to view the result.
 
----
+  ---
 
 ## 🏗️ Upcoming Improvements
 1. Input validation for non-numeric or negative characters.
@@ -52,3 +53,10 @@ rectCalculator/
 3. "Reset" button functionality.
 4. Enhance visual design with shadows, borders, and custom fonts.
 5. Include Perimeter calculation: $P = 2 \times (length + width)$.
+   
+   ---
+   
+## 📜 License
+
+This project is licensed under the Apache License 2.0.  
+See the [LICENSE](LICENSE) file for full license details.
