@@ -1,0 +1,9 @@
+body {
+    background-color: beige;
+    text-align: center;
+}
+.container{
+    background-color: blueviolet;
+    height: 20cm;
+    width: 10cm;
+}
